@@ -1,6 +1,6 @@
 /* Assignment #: 4
- Name: Your name
- StudentID:
+ Name: Stephen Austria
+ StudentID: 1220159551
  Lecture:
 Description: Assignment 4 class displays a menu of choices to a user
   and performs the chosen task. It will keep asking a user to
